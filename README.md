@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![RPCS3]([https://rpcs3.net/img/logos/rpcs3.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/RPCS3_Logo.png))
-
 **Automated installation script for RPCS3 PS3 Emulator on macOS**
 
 [![macOS](https://img.shields.io/badge/macOS-11.0+-blue.svg)](https://www.apple.com/macos/)
