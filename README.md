@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RPCS3](https://rpcs3.net/img/logos/rpcs3.svg)
+![RPCS3]([https://rpcs3.net/img/logos/rpcs3.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/RPCS3_Logo.png))
 
 **Automated installation script for RPCS3 PS3 Emulator on macOS**
 
